@@ -29,6 +29,8 @@ gem 'spring',        group: :development
 gem 'better_errors',  group: :development
 gem 'binding_of_caller', group: :development #advanced features for better_errors
 
+gem 'paperclip'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
